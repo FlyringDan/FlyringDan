@@ -29,4 +29,3 @@
 ### 🤝 Connect with me  
 [comment]:[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/FlyringDan)  
 [comment]:[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)  
-[comment]:[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=FlyringDan&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
